@@ -1,6 +1,6 @@
 # Мои проекты
 
-## Сайт размещения объявлений
+## Сайт по размещению объявлений
 
 ### [Netlify](https://main--heroic-sherbet-08fe0f.netlify.app/)
 ### [Repo](https://github.com/Atikingi/skyvito)
