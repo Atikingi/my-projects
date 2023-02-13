@@ -57,8 +57,8 @@
 
 ## Карточная игра "Найди пару"
 
-### [Gh-pages](https://github.com/Atikingi/Card-game)
-### [Repo](https://atikingi.github.io/Card-game/)
+### [Gh-pages](https://atikingi.github.io/Card-game/)
+### [Repo](https://github.com/Atikingi/Card-game)
 
 В зависимости от сложно предоставляется разное количество карт.</br>
 
